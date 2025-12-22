@@ -1,4 +1,4 @@
-# LLm Flask Endpoint
+# LLm Flask Endpoints
 
 This repository contains a simple Flask application that provides an endpoint to generate responses using the Anthropic API.
 
