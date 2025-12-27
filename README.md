@@ -10,4 +10,4 @@ Before you begin, ensure you have the following installed on your local machine:
 - pip (Python package installer)
 - A valid API key for Anthropic
 - this api get from repository.
-
+- this is get from file in folder 
